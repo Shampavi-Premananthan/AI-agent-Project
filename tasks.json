@@ -1,0 +1,34 @@
+[
+  {
+    "title": "'SRS work'",
+    "subject": "'AI'",
+    "deadline": "2025-12-15",
+    "hours": 5.0,
+    "priority": "Medium",
+    "completed": false
+  },
+  {
+    "title": "Oop concept",
+    "subject": "Java",
+    "deadline": "2025-12-14",
+    "hours": 8.0,
+    "priority": "High",
+    "completed": true
+  },
+  {
+    "title": "String and Error Handleing",
+    "subject": "Java",
+    "deadline": "2025-12-14",
+    "hours": 4.0,
+    "priority": "Low",
+    "completed": true
+  },
+  {
+    "title": "TestNG",
+    "subject": "Software Engineering",
+    "deadline": "2025-12-18",
+    "hours": 4.5,
+    "priority": "Medium",
+    "completed": false
+  }
+]
